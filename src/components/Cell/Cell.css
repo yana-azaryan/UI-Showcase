@@ -1,0 +1,18 @@
+.cell {
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    height: 25px;
+    margin: 20px;
+    width: 25px;
+}
+
+.lightOn {
+    background-color: rgb(18, 231, 231);
+    box-shadow: 0 0 22px rgb(18, 231, 231),
+    0 0 42px rgb(18, 231, 231);
+}
+
+.lightOff {
+    background-color: rgb(55, 55, 55);
+}

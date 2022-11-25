@@ -1,0 +1,24 @@
+.helperButton {
+    background-color: transparent;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 22px rgb(211, 248, 4),
+    0 0 42px rgb(245, 245, 243);
+    color: rgb(18, 231, 231);
+    cursor: pointer;
+    font: 600 18px 'Syne Mono', monospace;
+    margin-top: 25px;
+    padding: 10px;
+    width: fit-content;
+}
+
+.helperButton:hover {
+    box-shadow: 0 0 22px rgb(18, 231, 231),
+    0 0 42px  rgb(18, 231, 231);;
+}
+
+.helperButton:active {
+    background:  rgb(55, 55, 55);
+    box-shadow: 0 0 22px rgb(18, 231, 231),
+    0 0 42px  rgb(18, 231, 231);;
+}
