@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/UI-Showcase/static/css/main.d2a67d02.css",
+    "main.js": "/UI-Showcase/static/js/main.0415849d.js",
+    "static/media/forbesLogo.png": "/UI-Showcase/static/media/forbesLogo.c7729260943260992cac.png",
+    "index.html": "/UI-Showcase/index.html",
+    "main.d2a67d02.css.map": "/UI-Showcase/static/css/main.d2a67d02.css.map",
+    "main.0415849d.js.map": "/UI-Showcase/static/js/main.0415849d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a67d02.css",
+    "static/js/main.0415849d.js"
+  ]
+}
